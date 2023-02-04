@@ -4,7 +4,7 @@ button.addEventListener('click' , function(){
 	let name = document.getElementById('newTodoInput').value;
 	if(name == "")
 	{
-		error.innerHTML = "string should not be empty";
+		alert("It should not be empty")
      }
 	else
 	{
