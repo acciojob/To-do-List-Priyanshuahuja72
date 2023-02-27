@@ -14,5 +14,4 @@ button.addEventListener('click' , function(){
 	box.appendChild(li);
 	document.getElementById('newTodoInput').value = " ";
 	}
-	
 })
